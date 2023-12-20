@@ -29,7 +29,7 @@
         <a href="/">Home</a>
 
         {{-- create todo --}}
-        <x-card title="To-Do Application">
+        <x-card title="Cambios de Arthur todo-laravel">
             <form
                 action="{{ $model->exists ? route('todo.update', $model->id) : route('todo.store') }}"
                 method="POST"
