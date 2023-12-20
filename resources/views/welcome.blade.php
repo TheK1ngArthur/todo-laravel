@@ -11,7 +11,7 @@
         http-equiv="X-UA-Compatible"
         content="ie=edge"
     >
-    <title>Todo Application</title>
+    <title>Cambios hechos por Arthur</title>
     <link
         rel="stylesheet"
         href="{{ mix('css/app.css') }}"
@@ -25,7 +25,7 @@
 <body class="bg-gray-100">
     <div class="w-3/4 mx-auto">
         <x-success-message class="my-4" />
-        
+
         <a href="/">Home</a>
 
         {{-- create todo --}}
