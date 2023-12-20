@@ -11,7 +11,7 @@
         http-equiv="X-UA-Compatible"
         content="ie=edge"
     >
-    <title>Cambios hechos por Arthur</title>
+    <title>Todo Application</title>
     <link
         rel="stylesheet"
         href="{{ mix('css/app.css') }}"
